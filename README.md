@@ -80,13 +80,13 @@ Sebelum menjalankan project, pastikan perangkat sudah memiliki:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/TOKO-KELONTONG.git
+git clone https://github.com/susilofajar/Toko-Kelontong.git
 ```
 
 Masuk ke direktori project:
 
 ```bash
-cd TOKO-KELONTONG
+cd Toko-Kelontong
 ```
 
 ### 2. Install Dependency Laravel
